@@ -34,6 +34,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = MAUICalculator.MainPage.xa
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[/Users/josequinonez/C\#/MAUI/MAUICalculator/MAUICalculator/MVVM/CalcView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUICalculator.MVVM.CalcView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/CalcView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/CalcView.xaml
+
+[/Users/josequinonez/C\#/MAUI/MAUICalculator/MAUICalculator/Resources/Styles/CalcDictionary.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUICalculator.Resources.Styles.CalcDictionary.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/CalcDictionary.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/CalcDictionary.xaml
+
 [/Users/josequinonez/C\#/MAUI/MAUICalculator/MAUICalculator/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUICalculator.Resources.Styles.Colors.xaml
