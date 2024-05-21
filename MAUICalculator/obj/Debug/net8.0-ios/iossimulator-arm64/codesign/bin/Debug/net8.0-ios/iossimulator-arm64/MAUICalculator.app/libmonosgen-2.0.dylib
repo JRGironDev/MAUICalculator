@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/MAUICalculator.app/libmonosgen-2.0.dylib
