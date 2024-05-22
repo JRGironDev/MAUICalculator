@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dM5RLCzIjT2FBXUvBZAP8dIZlvjLSpSeZKEIAU+fjBdXf34pxVVYr/ef0COmNb2vDJ4Rsg2JawJsgaicqvmd3A==",
+  "dgSpecHash": "AANBZAlJOerWBbnMFeTB3U/OvqBa6pgrbLA6QNYdgy5HHIqu188rmfDZvSUaNfuCU9I1Y65jcllSjIgN6P07yg==",
   "success": true,
   "projectFilePath": "/Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/MAUICalculator.csproj",
   "expectedPackageFiles": [
+    "/Users/josequinonez/.nuget/packages/antlr4.runtime.standard/4.13.1/antlr4.runtime.standard.4.13.1.nupkg.sha512",
+    "/Users/josequinonez/.nuget/packages/dangl.calculator/2.2.0/dangl.calculator.2.2.0.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/fody/6.6.4/fody.6.6.4.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",

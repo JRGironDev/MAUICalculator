@@ -35,6 +35,8 @@
 /Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/runtimeconfig.bin
+/Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/Antlr4.Runtime.Standard.dll
+/Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/Dangl.Calculator.dll
 /Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/Microsoft.Extensions.Configuration.dll
 /Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/josequinonez/C#/MAUI/MAUICalculator/MAUICalculator/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MAUICalculator.app/Microsoft.Extensions.DependencyInjection.dll
